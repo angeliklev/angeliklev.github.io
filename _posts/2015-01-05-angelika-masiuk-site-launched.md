@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anjelika Masiuk, Useless Tech, Launches Site"
+title: "Angelika Masiuk, Useless Tech, Launches Site"
 date: 2015-01-05
 ---
 

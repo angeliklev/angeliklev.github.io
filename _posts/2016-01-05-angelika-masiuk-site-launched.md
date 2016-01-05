@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Angelika Masiuk, Useless Tech, Launches Site"
-date: 2015-01-05
+date: 2016-01-05
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered 
